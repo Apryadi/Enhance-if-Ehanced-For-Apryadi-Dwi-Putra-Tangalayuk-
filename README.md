@@ -10,7 +10,7 @@ For basic digunakan untuk melakukan perulangan.
 ## Enhanced If Else
 Bisa di gunakan untuk meningkatkan efisiensi penggunaan memory pada komputer yang di mana hnaya menggunakan 1 baris untuk mengerjakan conditional if else.
 
-# Penggunaaan For Basic Dan For Each
+## Penggunaaan For Basic Dan For Each
 For each bisa di gunakan jika value berupa array, yang dimana penggunaan For each lebih efisien. tapi for each tidak dapat di terapkan pada variable yang tidak memiliki array. Sedangkan for bisa digunakan untuk perulangan di semua situasi. Sebenarnya array juga bisa tapi kebetulan For each lebih efisien penggunaan nya dibandingkan for basic.
 
 # PENTING!!
